@@ -1,0 +1,12 @@
+Basic cyber security concept
+____________________________
+
+CIA triad & authenticity, non-repudiation 
+
+CIA stands for confidentiality, integrity, availability and recently authenticity and non-repudiation was added.
+
+Confidentiality: The state of keeping or being kept secret or private.
+Integrity: Integrity provides assurances that data has not been modified, tampered with, or corrupted. Loss of integrity indicates the data is different.
+Availability: Availability in cyber security The final component of the CIA Triad is availability. It means that systems and data are available to individuals when they need it under any circumstances, including power outages or natural disasters.
+Authenticity: Authenticity is assurance that a message, transaction, or other exchange of information is from the source it claims to be from. Authenticity involves proof of identity. We can verify authenticity through authentication
+Non-repudiation: Non-repudiation refers to a situation where a statement's author cannot successfully dispute its authorship or the validity of an associated contract.
