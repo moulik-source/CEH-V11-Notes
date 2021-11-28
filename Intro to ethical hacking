@@ -46,7 +46,7 @@ _______________________
 > Strategies
 
 5) Cyber kill chain and 7 phases
-____________________
+________________________________
 
 > Recon: information gathering eg: email info
 > Weaponization: Creating a payload for the target or finding payload for the target
@@ -55,4 +55,18 @@ ____________________
 > Installation: Installing malware on assest
 > C2: Command and control (remote access) 
 > Action on objective: Intruder accoplish the goal
+
+6) Common adversarial behaviour
+______________________________
+
+> Internal recon
+> HTTP user agent
+> DNS tunneling
+> Data staging 
+> Powershell
+> C2
+> CLI use
+> Web shell
+
+
 
