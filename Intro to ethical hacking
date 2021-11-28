@@ -45,3 +45,14 @@ _______________________
 > Cyberwarfare
 > Strategies
 
+5) Cyber kill chain and 7 phases
+____________________
+
+> Recon: information gathering eg: email info
+> Weaponization: Creating a payload for the target or finding payload for the target
+> Delivery: Sending weaponized bundle to the target
+> Exploitation: Exploiting the vulnerability to execute code on victim system
+> Installation: Installing malware on assest
+> C2: Command and control (remote access) 
+> Action on objective: Intruder accoplish the goal
+
