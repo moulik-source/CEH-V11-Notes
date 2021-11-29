@@ -68,5 +68,40 @@ ______________________________
 > CLI use
 > Web shell
 
+7) Threat hunting concept
+_________________________
 
+Define threat hunting: Cyber threat hunting is an active cyber defence activity. It is "the process of proactively and iteratively searching through networks to detect and isolate advanced threats that evade existing security solutions."
 
+What is IoC(Indicator of compromise): Indicator of compromise or IOC is a forensic term that refers to the evidence on a device that points out to a security breach. The data of IOC is gathered after a suspicious incident
+
+IoC Categories
+**************
+
+> Email
+
+>Compromised of email atifacts
+>Senders email address
+>Subject line
+>Attachment
+>Links
+
+> Networks
+
+>Artifacts
+>Domain info
+>IP address
+
+> Host based
+
+>Artifacts
+>Filename
+>Hash value
+>Registry entries
+>Drives
+
+> Behavioural
+
+>Artifacts
+>Macros running powershell
+>Service account running commands like a user would
