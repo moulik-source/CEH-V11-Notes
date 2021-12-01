@@ -10,3 +10,4 @@ CEH V11 Notes
 5) [Cyber killchain](https://github.com/moulik-source/CEH-V11-Notes/blob/main/Intro%20to%20ethical%20hacking)
 6) [Common adversarial behaviours](https://github.com/moulik-source/CEH-V11-Notes/blob/main/Intro%20to%20ethical%20hacking)
 7) [Threat hunting concept](https://github.com/moulik-source/CEH-V11-Notes/blob/main/Intro%20to%20ethical%20hacking)
+8) [What is hacking & Hacking concept](https://github.com/moulik-source/CEH-V11-Notes/blob/main/Intro%20to%20ethical%20hacking)
